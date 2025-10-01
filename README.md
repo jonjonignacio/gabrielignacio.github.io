@@ -33,4 +33,12 @@ Technical Contributions:
 - Implemented architectural improvements and security enhancements in response to evolving requirements and vulnerabilities (CVEs, bugs, malware threats).
 - Applied independent judgment in solving complex system and software issues, with occasional project leadership responsibilities.
 
+Undertakings:
 
+Server Management & Configuration: Expertly managed, configured, and maintained multi-server Linux environments, implementing robust security policies and performance tuning to ensure 99.9%+ uptime and reliability.
+
+Web Stack & Application Optimization: Administered and optimized LEMP/LAMP stacks, including web servers (Nginx/Apache) and databases (MySQL), for Laravel and Node.js applications. Enhanced performance and scalability through caching, load balancing, and query optimization.
+
+Proactive System Maintenance: Conducted ongoing system monitoring, diagnostics, and preventative maintenance. Applied patches, security updates, and configuration changes to safeguard data integrity and preempt potential system issues.
+
+Technical Support & Issue Resolution: Provided tiered technical support through a structured JIRA ticketing system. Diagnosed, troubleshot, and resolved a wide range of server and application-level issues, restoring service and documenting solutions.
