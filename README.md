@@ -1,9 +1,8 @@
 Current Affiliation:
 
 Company: TAOCROWD
-About: TaoCrowd is proudly owned and operated by Filipinos, built for the Philippines. It is powered by August 99, Inc., a Manila-based leader in website development, software, and technology solutions with over 20 years of industry experience. August 99 has partnered with dozens of startups while also incubating its own homegrown tech ventures into thriving businesses.
 
-Our global operations are supported by our Singapore headquarters under MosoDojo PTE LTD (known internally as Dojo). From there, we deliver creative outsourcing services to design and technology firms across the USA, Australia, and the UK.
+About: TaoCrowd is proudly owned and operated by Filipinos, built for the Philippines. It is powered by August 99, Inc., a Manila-based leader in website development, software, and technology solutions with over 20 years of industry experience. August 99 has partnered with dozens of startups while also incubating its own homegrown tech ventures into thriving businesses. Our global operations are supported by our Singapore headquarters under MosoDojo PTE LTD (known internally as Dojo). From there, we deliver creative outsourcing services to design and technology firms across the USA, Australia, and the UK.
 
 Website: https://taocrowd.com
 
