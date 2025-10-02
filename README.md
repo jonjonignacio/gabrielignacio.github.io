@@ -8,9 +8,9 @@ About: TaoCrowd is proudly owned and operated by Filipinos, built for the Philip
 
 Website: https://taocrowd.com
 
-Position - Site Reliability & IT Engineer
+Position - Site Reliability Engineer - Sr. Linux Administrator
 
-Key Responsibilities:
+Key Responsibilities: 
 
 - Managed the full lifecycle of services — from design and deployment to operation, monitoring, and continuous refinement.
 
