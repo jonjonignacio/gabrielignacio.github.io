@@ -1,5 +1,11 @@
 Linux Enthusiast/Systems Administrator
 
+Certification:
+- AWS Certified Cloud Practitioner 
+  https://www.credly.com/badges/34cf891f-35a3-4a0f-9b88-6c5f9e7dc355/linked_in_profile
+- Apache Cloudstack
+
+
 Current Affiliation:
 
 Company: August 99 / TaoCrowd
