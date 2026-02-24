@@ -1,4 +1,4 @@
-Linux Enthusiast/Systems Administrator
+Sr. Linux Systems Engineer - SRE
 
 Certification:
 - AWS Certified Cloud Practitioner 
